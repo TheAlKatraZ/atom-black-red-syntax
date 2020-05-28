@@ -1,0 +1,125 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0.1.0 - First Release	C:\Users\grang\github\black-red-syntax\CHANGELOG.md	/^## 0.1.0 - First Release$/;"	function	line:1
+name	C:\Users\grang\github\black-red-syntax\package.json	/^  "name": "black-red-syntax",$/;"	function	line:2
+theme	C:\Users\grang\github\black-red-syntax\package.json	/^  "theme": "syntax",$/;"	function	line:3
+version	C:\Users\grang\github\black-red-syntax\package.json	/^  "version": "0.0.0",$/;"	function	line:4
+description	C:\Users\grang\github\black-red-syntax\package.json	/^  "description": "A short description of your syntax theme",$/;"	function	line:5
+keywords	C:\Users\grang\github\black-red-syntax\package.json	/^  "keywords": [$/;"	function	line:6
+repository	C:\Users\grang\github\black-red-syntax\package.json	/^  "repository": "https:\/\/github.com\/atom\/black-red-syntax",$/;"	function	line:10
+license	C:\Users\grang\github\black-red-syntax\package.json	/^  "license": "MIT",$/;"	function	line:11
+engines	C:\Users\grang\github\black-red-syntax\package.json	/^  "engines": {$/;"	function	line:12
+atom	C:\Users\grang\github\black-red-syntax\package.json	/^    "atom": ">=1.0.0 <2.0.0"$/;"	function	line:13
+black-red-syntax theme	C:\Users\grang\github\black-red-syntax\README.md	/^# black-red-syntax theme$/;"	function	line:1
+atom-text-editor	C:\Users\grang\github\black-red-syntax\styles\base.less	/^atom-text-editor {$/;"	function	line:3
+.wrap-guide	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .wrap-guide {$/;"	function	line:7
+.indent-guide	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .indent-guide {$/;"	function	line:11
+.invisible-character	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .invisible-character {$/;"	function	line:15
+.gutter	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .gutter {$/;"	function	line:19
+.line-number	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    .line-number {$/;"	function	line:23
+&.cursor-line	C:\Users\grang\github\black-red-syntax\styles\base.less	/^      &.cursor-line {$/;"	function	line:24
+&.cursor-line-no-selection	C:\Users\grang\github\black-red-syntax\styles\base.less	/^      &.cursor-line-no-selection {$/;"	function	line:29
+.gutter .line-number.folded	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .gutter .line-number.folded,$/;"	function	line:35
+.gutter .line-number:after	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .gutter .line-number:after,$/;"	function	line:36
+.fold-marker:after	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .fold-marker:after {$/;"	function	line:37
+.invisible	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .invisible {$/;"	function	line:41
+.cursor	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .cursor {$/;"	function	line:45
+.selection .region	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  .selection .region {$/;"	function	line:49
+.syntax--comment	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--comment {$/;"	function	line:57
+.syntax--keyword	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--keyword {$/;"	function	line:61
+&.syntax--control	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--control {$/;"	function	line:64
+&.syntax--operator	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--operator {$/;"	function	line:68
+&.syntax--other.syntax--special-method	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--other.syntax--special-method {$/;"	function	line:72
+&.syntax--other.syntax--unit	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--other.syntax--unit {$/;"	function	line:76
+.syntax--storage	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--storage {$/;"	function	line:81
+.syntax--constant	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--constant {$/;"	function	line:85
+&.syntax--character.syntax--escape	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--character.syntax--escape {$/;"	function	line:88
+&.syntax--numeric	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--numeric {$/;"	function	line:92
+&.syntax--other.syntax--color	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--other.syntax--color {$/;"	function	line:96
+&.syntax--other.syntax--symbol	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--other.syntax--symbol {$/;"	function	line:100
+.syntax--variable	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--variable {$/;"	function	line:105
+&.syntax--interpolation	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--interpolation {$/;"	function	line:108
+&.syntax--parameter.syntax--function	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--parameter.syntax--function {$/;"	function	line:112
+.syntax--invalid.syntax--illegal	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--invalid.syntax--illegal {$/;"	function	line:117
+.syntax--string	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--string {$/;"	function	line:122
+&.syntax--regexp	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--regexp {$/;"	function	line:126
+.syntax--source.syntax--ruby.syntax--embedded	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    .syntax--source.syntax--ruby.syntax--embedded {$/;"	function	line:129
+&.syntax--other.syntax--link	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--other.syntax--link {$/;"	function	line:134
+.syntax--punctuation	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--punctuation {$/;"	function	line:139
+&.syntax--definition	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--definition {$/;"	function	line:140
+&.syntax--comment	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--comment {$/;"	function	line:141
+&.syntax--string	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--string,$/;"	function	line:145
+&.syntax--variable	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--variable,$/;"	function	line:146
+&.syntax--parameters	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--parameters,$/;"	function	line:147
+&.syntax--array	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--array {$/;"	function	line:148
+&.syntax--heading	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--heading,$/;"	function	line:152
+&.syntax--identity	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--identity {$/;"	function	line:153
+&.syntax--bold	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--bold {$/;"	function	line:157
+&.syntax--italic	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--italic {$/;"	function	line:162
+&.syntax--section.syntax--embedded	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--section.syntax--embedded {$/;"	function	line:168
+.syntax--support	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--support {$/;"	function	line:174
+&.syntax--class	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--class {$/;"	function	line:175
+&.syntax--function	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--function  {$/;"	function	line:179
+&.syntax--any-method	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--any-method {$/;"	function	line:182
+.syntax--entity	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--entity {$/;"	function	line:188
+&.syntax--name.syntax--function	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--name.syntax--function {$/;"	function	line:189
+&.syntax--name.syntax--type	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--name.syntax--type {$/;"	function	line:192
+&.syntax--other.syntax--inherited-class	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--other.syntax--inherited-class {$/;"	function	line:197
+&.syntax--name.syntax--class, &.syntax--name.syntax--type.syntax--class	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--name.syntax--class, &.syntax--name.syntax--type.syntax--class {$/;"	function	line:200
+&.syntax--name.syntax--section	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--name.syntax--section {$/;"	function	line:204
+&.syntax--name.syntax--tag	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--name.syntax--tag {$/;"	function	line:208
+&.syntax--other.syntax--attribute-name	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--other.syntax--attribute-name {$/;"	function	line:213
+&.syntax--id	C:\Users\grang\github\black-red-syntax\styles\base.less	/^    &.syntax--id {$/;"	function	line:216
+.syntax--meta	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--meta {$/;"	function	line:222
+&.syntax--class	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--class {$/;"	function	line:223
+&.syntax--link	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--link {$/;"	function	line:227
+&.syntax--require	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--require {$/;"	function	line:231
+&.syntax--selector	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--selector {$/;"	function	line:235
+&.syntax--separator	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--separator {$/;"	function	line:239
+.syntax--none	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--none {$/;"	function	line:245
+.syntax--markup	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--markup {$/;"	function	line:249
+&.syntax--bold	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--bold {$/;"	function	line:250
+&.syntax--changed	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--changed {$/;"	function	line:255
+&.syntax--deleted	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--deleted {$/;"	function	line:259
+&.syntax--italic	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--italic {$/;"	function	line:263
+&.syntax--heading .syntax--punctuation.syntax--definition.syntax--heading	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--heading .syntax--punctuation.syntax--definition.syntax--heading {$/;"	function	line:268
+&.syntax--inserted	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--inserted {$/;"	function	line:272
+&.syntax--list	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--list {$/;"	function	line:276
+&.syntax--quote	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--quote {$/;"	function	line:280
+&.syntax--raw.syntax--inline	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--raw.syntax--inline {$/;"	function	line:284
+.syntax--source.syntax--gfm .syntax--markup	C:\Users\grang\github\black-red-syntax\styles\base.less	/^.syntax--source.syntax--gfm .syntax--markup {$/;"	function	line:289
+&.syntax--heading	C:\Users\grang\github\black-red-syntax\styles\base.less	/^  &.syntax--heading {$/;"	function	line:291
+atom-text-editor[mini] .scroll-view	C:\Users\grang\github\black-red-syntax\styles\base.less	/^atom-text-editor[mini] .scroll-view {$/;"	function	line:299
+very-light-gray	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@very-light-gray: #c5c8c6;$/;"	function	line:3
+light-gray	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@light-gray: #969896;$/;"	function	line:4
+gray	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@gray: #373b41;$/;"	function	line:5
+dark-gray	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@dark-gray: #282a2e;$/;"	function	line:6
+very-dark-gray	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@very-dark-gray: #1d1f21;$/;"	function	line:7
+cyan	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@cyan: #8abeb7;$/;"	function	line:9
+blue	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@blue: #81a2be;$/;"	function	line:10
+purple	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@purple: #b294bb;$/;"	function	line:11
+green	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@green: #b5bd68;$/;"	function	line:12
+red	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@red: #cc6666;$/;"	function	line:13
+orange	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@orange: #de935f;$/;"	function	line:14
+light-orange	C:\Users\grang\github\black-red-syntax\styles\colors.less	/^@light-orange: #f0c674;$/;"	function	line:15
+syntax-text-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-text-color: @very-light-gray;$/;"	function	line:7
+syntax-cursor-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-cursor-color: white;$/;"	function	line:8
+syntax-selection-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-selection-color: lighten(@dark-gray, 10%);$/;"	function	line:9
+syntax-background-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-background-color: @very-dark-gray;$/;"	function	line:10
+syntax-wrap-guide-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-wrap-guide-color: @dark-gray;$/;"	function	line:13
+syntax-indent-guide-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-indent-guide-color: @gray;$/;"	function	line:14
+syntax-invisible-character-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-invisible-character-color: @gray;$/;"	function	line:15
+syntax-result-marker-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-result-marker-color: @light-gray;$/;"	function	line:18
+syntax-result-marker-color-selected	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-result-marker-color-selected: white;$/;"	function	line:19
+syntax-gutter-text-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-gutter-text-color: @very-light-gray;$/;"	function	line:22
+syntax-gutter-text-color-selected	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-gutter-text-color-selected: @syntax-gutter-text-color;$/;"	function	line:23
+syntax-gutter-background-color	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-gutter-background-color: @dark-gray;$/;"	function	line:24
+syntax-gutter-background-color-selected	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-gutter-background-color-selected: @gray;$/;"	function	line:25
+syntax-color-renamed	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-color-renamed: @blue;$/;"	function	line:28
+syntax-color-added	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-color-added: @green;$/;"	function	line:29
+syntax-color-modified	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-color-modified: @orange;$/;"	function	line:30
+syntax-color-removed	C:\Users\grang\github\black-red-syntax\styles\syntax-variables.less	/^@syntax-color-removed: @red;$/;"	function	line:31

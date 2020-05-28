@@ -1,0 +1,15 @@
+{
+  "name": "black-red-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A red and black high constrast theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/TheAlKatraZ/atom-black-red-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
